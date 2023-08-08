@@ -202,7 +202,9 @@ The project also provides an interactive user interface (UI) that is intuitive a
 UI would allow users to easily upload documents, customize summarization settings, and navigate
 through the generated PPTs. Attention will be given to user feedback and iterative improvements
 to ensure a seamless and satisfying user experience.
-Future Work: To enhance the accuracy of the summarization process, several avenues can be
+
+### Future Work: 
+To enhance the accuracy of the summarization process, several avenues can be
 explored. Firstly, developing multiple templates for PPTs or storyboards would allow for greater
 customization and presentation options. The selection of templates could be based on a machine
 learning model trained on user preferences or the nature of the content. Additionally, incorporating
